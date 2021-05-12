@@ -5,11 +5,12 @@ I'm Vlado. Junior backend developer... Or at least trying to be one :/
 Currently 3d year of Software Engineering at Moscow Power Engineering Institute ( <a href="https://mpei.ru/Pages/default.aspx">MPEI</a> ).
 
 If you are looking to hire junior back-end developer, ping me on one of these:
-
-  <a href="https://t.me/v_plavsic">Telegram</a><br>
-  <a href="instagram.com/v_plavsic">Instagram</a><br>
-  <a href="https://vk.com/vladoplavsic">VKontakte</a><br>
-  <a href="mailito:plavsicvlado98@gmail.com">E-mail</a><br>
+<h1>
+  <a href="https://t.me/v_plavsic">Telegram</a><br><br>
+  <a href="instagram.com/v_plavsic">Instagram</a><br><br>
+  <a href="https://vk.com/vladoplavsic">VKontakte</a><br><br>
+  <a href="mailito:plavsicvlado98@gmail.com">E-mail</a>
+</h1>
   
 <!--
 **VladoPlavsic/VladoPlavsic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
