@@ -6,10 +6,10 @@ Currently 3d year of Software Engineering at Moscow Power Engineering Institute 
 
 If you are looking to hire junior back-end developer, ping me on one of these:
 
-  <a href="https://t.me/v_plavsic">Telegram</a>
-  <a href="instagram.com/v_plavsic">Instagram</a>
-  <a href="https://vk.com/vladoplavsic">VKontakte</a>
-  <a href="mailito:plavsicvlado98@gmail.com">E-mail</a>
+  <a href="https://t.me/v_plavsic">Telegram</a><br>
+  <a href="instagram.com/v_plavsic">Instagram</a><br>
+  <a href="https://vk.com/vladoplavsic">VKontakte</a><br>
+  <a href="mailito:plavsicvlado98@gmail.com">E-mail</a><br>
   
 <!--
 **VladoPlavsic/VladoPlavsic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
