@@ -7,7 +7,7 @@ Currently 3d year of Software Engineering at Moscow Power Engineering Institute 
 If you are looking to hire junior back-end developer, ping me on one of these:
 <h2>
   <a href="https://t.me/v_plavsic">Telegram</a><br><br>
-  <a href="instagram.com/v_plavsic">Instagram</a><br><br>
+  <a href="https://instagram.com/v_plavsic">Instagram</a><br><br>
   <a href="https://vk.com/vladoplavsic">VKontakte</a><br><br>
   <a href="mailito:plavsicvlado98@gmail.com">E-mail</a>
 </h2>
