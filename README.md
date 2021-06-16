@@ -2,7 +2,7 @@
 
 I'm Vlado. Junior backend developer... Or at least trying to be one :/
 
-Currently 3d year of Software Engineering at Moscow Power Engineering Institute ( <a href="https://mpei.ru/Pages/default.aspx">MPEI</a> ).
+Currently 4th year of Software Engineering at Moscow Power Engineering Institute ( <a href="https://mpei.ru/Pages/default.aspx">MPEI</a> ).
 
 If you are looking to hire junior back-end developer, ping me on one of these:
 <h2>
