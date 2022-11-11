@@ -28,6 +28,7 @@
       <td>Bachlor of computer science <a href="https://mpei.ru/Pages/default.aspx">MPEI</a></td>
       <td>
       <td>
+      <td>
     </tr>
    
   </table>
