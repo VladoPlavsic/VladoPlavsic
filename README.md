@@ -60,6 +60,9 @@
       <td>
       <td>
       <td>
+      <td>
+      <td>
+      <td>
       <td valign="top"><a href="mailto:plavsicvlado98@gmail.com">E-mail</a></td>
     </tr>
   </table>
