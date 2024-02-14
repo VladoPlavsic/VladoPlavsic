@@ -1,9 +1,6 @@
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladoplavsic&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=vladoplavsic&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
+
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladoplavsic&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=vladoplavsic&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></p>
 
 <!--
 **VladoPlavsic/VladoPlavsic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
