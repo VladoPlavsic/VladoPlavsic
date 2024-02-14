@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/fb4cc9f0-e970-410e-8acd-30ef6777163f" style="width: 50vw;"/>
+  <img src="https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/648a4cd4-3178-4bac-bd4d-03c440282191" style="width: 50vw;"/>
 </p>
+
 
 ## Back-end Web Developer (Erlang/Elixir & Python)
 
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 
 - 📫 How to reach me: ...
