@@ -1,8 +1,10 @@
-![alt README header](https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/fb4cc9f0-e970-410e-8acd-30ef6777163f|width=100)
+<p align="center">
+  <img src="https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/fb4cc9f0-e970-410e-8acd-30ef6777163f" style="width: 50vw;"/>
+</p>
 
 ## Back-end Web Developer (Erlang/Elixir & Python)
 
-🔭 Currently working at Wellnuts, international IoT company helping cars be kind to nature. 
+🔋🚗⚡ Currently working at Wellnuts, international IoT company helping cars be kind to nature. 
 
 Long story short:
 
@@ -30,11 +32,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" style="background:#FFFFF; padding: 25px 0;" max-height="10vh">
-    <a href="https://instagram.com/laplacoidvvs">
-        <img src="https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/96dd9c2c-9953-4b73-be0a-d9ab49897778" alt="Follow me on instagram">
-    </a>
+* * * * *
+
+<div align="center" style="padding: 25px 0;" max-height="10vh">
      <a href="https://www.linkedin.com/in/vlado-plavsic-197b98202/">
-        <img src="https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/02b8e497-04ee-490c-a6e2-6ad2846dbaea" alt="Connect on Linkedin">
+        <img src="https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/cfefbff0-2feb-4648-a329-ff677075b515" style="width: 5%" alt="Connect on Linkedin">
+     </a> &#160 &#160
+    <a href="https://instagram.com/laplacoidvvs">
+        <img src="https://github.com/VladoPlavsic/VladoPlavsic/assets/56084385/2e081fc3-3df6-4fd3-b5bc-498bdad9064d" style="width: 5%; -webkit-filter: invert(.75); filter: invert(.75);" alt="Follow me on instagram">
     </a>
 </div>
