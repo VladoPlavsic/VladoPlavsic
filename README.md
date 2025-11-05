@@ -7,7 +7,7 @@
 
 🔋🚗⚡ Currently working at Wellnuts, international IoT company helping cars be kind to nature. 
 
-Long story short:
+TL;DR;
 
 🥑 Eat 💻 Code 💪🏽 Train 🌱 Study ♻️ Repeat
 
