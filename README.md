@@ -12,7 +12,7 @@ TL;DR;
 🥑 Eat 💻 Code 💪🏽 Train 🌱 Study ♻️ Repeat
 
 
-🌎 Check my [portfolio](https://www.linkedin.com/in/vlado-plavsic-197b98202)
+🌎 Check my [portfolio](https://vladoplavsic.github.io/)
 
 I'm always doing some side projects, but I can't be bothered to keep my portfolio up to date. 
 
